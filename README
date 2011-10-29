@@ -1,0 +1,5 @@
+== Overview
+
+This app is a very basic test app for the gem "BetaUserAccess" and simply blocks users who are 
+not already allowed access. Blocked users are able to request access and administrators/super users 
+are able to grant access the next time the user tries to sign in. 
