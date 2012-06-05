@@ -29,5 +29,5 @@ gem 'sqlite3'
 # group :development, :test do
 #   gem 'webrat'
 # end
-gem 'betauseraccess', :path => "../BetaUserAccess"
+gem 'betauseraccess'
 #gem 'cheese', :path => "../rails_3_engine_demo"
